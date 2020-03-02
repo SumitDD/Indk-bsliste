@@ -10,6 +10,8 @@
 
 <br>
 
+${sessionScope.besked}
+
 ${requestScope.besked}
 
 <br>
