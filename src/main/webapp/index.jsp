@@ -12,7 +12,14 @@
 </head>
 <body>
 
-Velkommen til din online indkøbsliste
+<h1>Velkommen til din online indkøbsliste</h1>
+
+<br>
+
+${requestScope.besked}
+
+<br>
+<br>
 
 <form action="Login" method="post">
     <label for="fname">First name:</label><br>
