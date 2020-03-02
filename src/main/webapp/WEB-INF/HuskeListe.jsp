@@ -6,7 +6,7 @@
 </head>
 <body>
 
-Du har nu adgang til din huskeliste
+<h1>Du er nu klar til at tilføje emner til din indkøbskurv</h1>
 
 
 </body>
